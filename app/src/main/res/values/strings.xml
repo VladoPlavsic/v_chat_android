@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VEssenger</string>
+    <string name="server_url" translatable="false">ws://158.160.130.85:4000</string>
+</resources>
